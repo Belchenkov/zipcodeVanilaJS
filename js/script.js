@@ -22,7 +22,9 @@ function deleteLocation(e) {
     e.preventDefault();
 
     if (e.target.className == 'delete') {
-        console.log('delete');
+        document.querySelector('.message').remove();
+        document.querySelector('.zip').value = '';
+        document.querySelector('.icon-check').remove();
     }
 }
 
