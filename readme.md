@@ -5,3 +5,5 @@
 1. git clone
 2. cd zipcodeValinaJS
 3. Open index.html in Browser
+
+or go to http://138.197.11.25/zipcodeVanilaJS/
